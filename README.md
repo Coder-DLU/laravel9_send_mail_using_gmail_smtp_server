@@ -153,23 +153,7 @@ php artisan serve
 ```
 - Vào http://localhost:8000/send-mail
 
+![Container](a3.png)
 ![Container](a.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
