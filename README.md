@@ -104,7 +104,7 @@ class MailController extends Controller
 ```
 ## 5. Create Routes
 - Vào routes/web.php
-- ```Dockerfile
+```Dockerfile
 <?php
   
 use Illuminate\Support\Facades\Route;
